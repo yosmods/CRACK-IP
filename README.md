@@ -1,2 +1,6 @@
 # CRACK-IP
 CRACK IP 90% ACURRATIONS
+
+RUN TOOLS :
+$ cd CRACK-IP
+$ bash trackip
